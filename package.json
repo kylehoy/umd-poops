@@ -10,5 +10,8 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kylehoy/umd-poops.git"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
   }
 }
